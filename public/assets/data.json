@@ -1,0 +1,63 @@
+
+
+{"products":[
+    { "id": 1,
+     "name": "AVÈNE CLEANANCE" ,
+     "description": "GEL NETTOYANT 200 ML " ,  
+     "src":"./images/avene.jpg" ,
+     "price": 30.000
+
+    },
+      { "id": 2,
+     "name": "DOPPELHERZ AKTIV" ,
+     "description": "ZINC+HISTIDINE+VIT C " , 
+     "src":"./images/doppelherz.jpg" , 
+     "price":36.000
+
+    },
+    
+   {" id": 3,
+     "name": "KLORANE SHAMPOOING"  ,
+     "description": "DÉMÉLANT 200 ML"  , 
+     "src":"./images/klorane.jpg" , 
+     "price": 19.500
+
+    },
+     { "id": 4,
+     "name": "ACCU-CHEK ACTIVE"  ,
+     "description": "25 BANDELETTES"  ,
+     "src":"./images/bandelettes.jpg" ,   
+     "price": 26.800 
+
+    },
+
+      { "id": 5,
+     "name": "SVR SUN SECURE"   ,
+     "description": "SPF 50 + 50ML"  ,  
+     "src":"./images/sun-secure-blur-spf50.jpg" ,  
+     "price": 42.900
+
+    },
+      { "id": 6,
+     "name": "BIOXSINE SHAMPOING " ,
+     "description": "AUX HERBES ANTI-CHUTE"  , 
+     "src":"./images/bioxsine.jpg" ,  
+     "price": 32.000
+
+    },
+        { "id": 7,
+     "name":"DODIE BIBERON" ,
+     "description": "250ML ROSE 0-6"  ,  
+     "src":"./images/bibron.jpg" , 
+     "price": 16.000 
+
+    },
+       { "id": 8,
+     "name": "SESDERMA K-VIT SERUM " ,
+     "description":"ANTICERNES, 30ML"  ,  
+     "src":"./images/k-vit-.jpg" , 
+     "price": 119.500
+
+    } 
+
+]}

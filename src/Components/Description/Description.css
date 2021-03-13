@@ -1,0 +1,26 @@
+.container{
+
+    
+    width: 100%;
+display: flex;
+
+}
+.box1{
+  flex-basis: 40%;
+}
+.box2{
+   flex-basis: 60%;
+   
+}
+.image:hover{
+    width:150%;
+    transition: 1s;
+    cursor: zoom-in;
+}
+
+.oui{
+    background-color: green;
+}
+.non{
+    background-color: red;
+}

@@ -1,0 +1,95 @@
+.App{margin: 0;
+padding: 0;}
+.logo{
+  width: 150px;
+  height: 90px;
+margin-left: 50px;
+margin-top: 8px;
+cursor: pointer;
+}
+
+.nav-items{
+  font-family: 'PT+Sans', Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight:bold;
+  line-height: 30px;
+  color: rgb(10, 151, 151);
+  position: relative;
+ float: right;
+ margin-top: 12px;
+padding-left: 35px;
+  }
+  .nav-items:hover{
+ color:yellowgreen;
+  cursor: pointer; 
+  display: block;
+  
+  }
+.dropdowns{
+display: none;
+position: absolute;
+background-color:rgb(240, 241, 237);
+width: 200px;
+box-shadow: 5px 5px 8px transparent;
+z-index: 1;
+}
+nav{
+  margin-top: 0px;
+  background-color: white;
+  height: 100px;
+}
+.navbar-nav>li>a{text-decoration: none;
+  color:rgb(10, 151, 151);
+  }
+  .navbar-nav>li:hover>a{text-decoration: none;
+    color:yellowgreen;
+    }
+.nav-items:hover .dropdowns{ display: block;}
+.nav-items1:hover .dropdowns{ display: block;}
+.dropdowns a{
+color: darkcyan;
+text-decoration: none;
+display: block;
+height: 40px;
+font-family: 'PT+Sans', Arial, Helvetica, sans-serif;
+font-size: 1em;
+font-weight: bold;
+line-height: 20px;
+padding: 5px 15px;
+} 
+.dropdowns a:hover{ 
+color: yellowgreen;
+background-color: rgba(165, 158, 158, 0.26)
+}
+.item_count{
+  position: absolute;
+margin-top: -38px;
+ margin-left:8px;
+  width: 20px;
+  height: 20px;
+  background: yellowgreen;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 100%;
+  color: #fff;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.icons{list-style: none;
+text-decoration: none;}
+.icons:hover{text-decoration: none;}
+.slider{
+  margin-left: 5%; 
+  margin-right: 6%;
+  overflow: hidden;
+ margin-top: -20px;
+}
+h2{ color:darkcyan;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.text-muted{
+  font-weight: bold;
+}
